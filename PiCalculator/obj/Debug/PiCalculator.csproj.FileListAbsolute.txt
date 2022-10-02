@@ -1,0 +1,11 @@
+C:\Users\edgar\source\repos\PiCalculator\obj\Debug\PiCalculator.csproj.AssemblyReference.cache
+C:\Users\edgar\source\repos\PiCalculator\obj\Debug\PiCalculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\edgar\source\repos\PiCalculator\obj\Debug\PiCalculator.Form1.resources
+C:\Users\edgar\source\repos\PiCalculator\obj\Debug\PiCalculator.Properties.Resources.resources
+C:\Users\edgar\source\repos\PiCalculator\obj\Debug\PiCalculator.csproj.GenerateResource.cache
+C:\Users\edgar\source\repos\PiCalculator\obj\Debug\PiCalculator.csproj.CoreCompileInputs.cache
+C:\Users\edgar\source\repos\PiCalculator\bin\Debug\PiCalculator.exe.config
+C:\Users\edgar\source\repos\PiCalculator\bin\Debug\PiCalculator.exe
+C:\Users\edgar\source\repos\PiCalculator\bin\Debug\PiCalculator.pdb
+C:\Users\edgar\source\repos\PiCalculator\obj\Debug\PiCalculator.exe
+C:\Users\edgar\source\repos\PiCalculator\obj\Debug\PiCalculator.pdb
